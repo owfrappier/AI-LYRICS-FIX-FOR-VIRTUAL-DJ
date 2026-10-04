@@ -1,7 +1,7 @@
 <p align="center"><img src="icon.png" width="160" alt="AI-LYRICS-FIX FOR VIRTUAL DJ"></p>
 
 <p align="center">
-  <img src="screenshot3.png?v=1.2" alt="Chord Injector for Virtual DJ 2026 interface" width="900">
+  <img src="screenshot3.png?v=1.2" alt="AI-LYRICS-FIX FOR VIRTUAL DJ interface" width="900">
 </p>
 
 
