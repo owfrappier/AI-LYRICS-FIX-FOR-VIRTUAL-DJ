@@ -1,5 +1,11 @@
 <p align="center"><img src="icon.png" width="160" alt="AI-LYRICS-FIX FOR VIRTUAL DJ"></p>
 
+<p align="center">
+  <img src="screenshot3.png?v=1.2" alt="Chord Injector for Virtual DJ 2026 interface" width="900">
+</p>
+
+
+
 # AI-LYRICS-FIX FOR VIRTUAL DJ
 
 **Corrige les paroles karaoké générées par l'IA de VirtualDJ, avec les paroles de LRCLIB, en gardant le timing.**
